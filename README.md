@@ -85,7 +85,7 @@ task deploy(type: S3Sync){
     <tr>
         <td><b>* accessKey()</b></td>
         <td>AWS Access Key</td>
-        <td>The accessKey and secretKey msut be set - the plugin does not support AWS IAM Instance roles.</td>
+        <td>The accessKey and secretKey must be set - the plugin does not support AWS IAM Instance roles.</td>
     </tr>
     <tr>
         <td><b>* secretKey()</b></td>
